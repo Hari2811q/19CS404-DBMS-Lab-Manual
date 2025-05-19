@@ -1,5 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-
+## Name:Hariprasath.R
+## Reg.no:212223040059
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
