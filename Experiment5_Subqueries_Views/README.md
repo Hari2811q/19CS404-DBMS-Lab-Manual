@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
-## Name: Prasanna R
-## Reg.no: 212222040120
+## Name:Hariprasath.R
+## Reg.no:212223040059
 ## AIM
 To study and implement subqueries and views.
 
